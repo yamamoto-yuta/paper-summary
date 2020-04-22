@@ -2,5 +2,5 @@
 読んだ論文をissueにまとめる
 
 # issueの構造
-close : 読み終わったもの
-open : 読んでる途中or今後読む予定
+close : 読み終わったもの<br>
+open : 読んでる途中 or 今後読む予定
